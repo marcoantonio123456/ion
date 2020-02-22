@@ -1,10 +1,4 @@
-/*!
- * Webflow: Front-end site library
- * @license MIT
- * Inline scripts may access the api using an async handler:
- *   var Webflow = Webflow || [];
- *   Webflow.push(readyFunction);
- */
+
 ! function(t) {
     var e = {};
 
@@ -3497,27 +3491,6 @@
     "use strict";
     var r = window.$,
         i = n(54) && r.tram;
-    /*!
-     * Webflow._ (aka) Underscore.js 1.6.0 (custom build)
-     * _.each
-     * _.map
-     * _.find
-     * _.filter
-     * _.any
-     * _.contains
-     * _.delay
-     * _.defer
-     * _.throttle (webflow)
-     * _.debounce
-     * _.keys
-     * _.has
-     * _.now
-     *
-     * http://underscorejs.org
-     * (c) 2009-2013 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
-     * Underscore may be freely distributed under the MIT license.
-     * @license MIT
-     */
     t.exports = function() {
         var t = {
                 VERSION: "1.6.0-Webflow"
