@@ -2606,18 +2606,18 @@ strong {
 }
 
 
-.tooltip.thumb.project-2 {
+/*.tooltip.thumb.project-2 {
 	background-image: url("images/2.jpg");
 }
-
-
+*/
+/*
 .tooltip.thumb.project-4 {
-	background-image: url("https://xenodochial-thompson-f3ad27.netlify.com/images/1.jpg");
+	background-image: url("https://ion-nico.netlify.com/images/1.jpg");
 }
-
-.tooltip.thumb.project-5 {
+*/
+/*.tooltip.thumb.project-5 {
 	background-image: url("images/3.jpg");
-}
+}*/
 
 .tooltip.close-button-layer {
 	left: -64px;
@@ -3958,33 +3958,33 @@ strong {
 	transform: scale(1.05);
 }
 
-.bg-img.fade-in-grow.example-1 {
+/*.bg-img.fade-in-grow.example-1 {
 	background-image: url("https://assets.website-files.com/5da5adcd1dba53530b283cfd/5dde42d306fb5804d9d7223d_photographer-website-html-template-05.jpg");
 	background-position: 50% 50%;
 }
-
-.bg-img.fade-in-grow.example-2 {
+*/
+/*.bg-img.fade-in-grow.example-2 {
 	background-image: url("https://assets.website-files.com/5da5adcd1dba53530b283cfd/5dde4255ea47035594fdce1a_photographer-website-html-template-09.jpg");
 	background-position: 50% 50%;
-}
+}*/
 
-.bg-img.fade-in-grow.example-3 {
-	background-image: url("https://assets.website-files.com/5da5adcd1dba53530b283cfd/5dde3f8eea4703dcbcfdba20_photographer-website-html-template-02.jpg");
+/*.bg-img.fade-in-grow.example-3 {
+	background-image: url("https://ion-nico.netlify.com/images/1.jpg");
 	background-position: 50% 50%;
 }
 
 .bg-img.fade-in-grow.example-4 {
-	background-image: url("https://assets.website-files.com/5da5adcd1dba53530b283cfd/5dde3f8eea4703dcbcfdba20_photographer-website-html-template-02.jpg");
+	background-image: url("https://ion-nico.netlify.com/images/1.jpg");
 	background-position: 50% 50%;
 }
 
 .bg-img.fade-in-grow.example-5 {
-	background-image: url("images/2.jpg");
+	background-image: url("https://ion-nico.netlify.com/images/1.jpg");
 	background-position: 50% 50%;
 }
 
 .bg-img.fade-in-grow.example-6 {
-	background-image: url("https://xenodochial-thompson-f3ad27.netlify.com/images/1.jpg");
+	background-image: url("https://ion-nico.netlify.com/images/1.jpg");
 	background-position: 50% 50%;
 }
 
@@ -3994,11 +3994,12 @@ strong {
 }
 
 .bg-img.example-1 {
-	background-image: url("https://assets.website-files.com/5da5adcd1dba53530b283cfd/5dde3f8eea4703dcbcfdba20_photographer-website-html-template-02.jpg");
-}
+	background-image: url("https://ion-nico.netlify.com/images/1.jpg");
+}*/
 
+/*#2*/
 .bg-img.example-2 {
-	background-image: url("images/2.jpg");
+	background-image: url("https://ion-nico.netlify.com/images/2.jpg");
 }
 
 .bg-img.skew-in-grow {
@@ -4050,13 +4051,13 @@ strong {
 .bg-img.example-5 {
 	background-image: url("https://assets.website-files.com/5da5adcd1dba53530b283cfd/5dde44feaf313a44658de620_photographer-website-html-template-11.jpg");
 }
-
+/*#1*/
 .bg-img.example-3 {
-	background-image: url("https://xenodochial-thompson-f3ad27.netlify.com/images/1.jpg");
+	background-image: url("https://ion-nico.netlify.com/images/1.jpg");
 }
-
+/*#3*/
 .bg-img.example-6 {
-	background-image: url("https://xenodochial-thompson-f3ad27.netlify.com/images/1.jpg");
+	background-image: url("https://ion-nico.netlify.com/images/3.jpg");
 }
 
 .bg-img.example-7 {
