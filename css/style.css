@@ -5415,7 +5415,7 @@ strong {
 	}
 	.header-holder {
 		top: 20vh;
-		margin-top: 20vh;
+		margin-top: -20vh;
 	}
 	.navigation-menu-icon {
 		padding-right: 3rem;
