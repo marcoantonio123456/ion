@@ -9,6 +9,11 @@ body {
 	overflow-x: hidden;
 }
 
+b42d4204-1c09-34b3-e66f-536bb13b6060.disabled {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    }
+
 article,
 aside,
 details,
@@ -5694,6 +5699,7 @@ strong {
 	}
 	.img-size {
 		min-height: 256px;
+		margin-bottom: 4em;
 	}
 	.img-size.small {
 		min-height: 256px;
